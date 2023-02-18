@@ -1,0 +1,13 @@
+body
+{
+background: rgb(22,110,88);
+background: linear-gradient(90deg, rgba(22,110,88,1) 0%, rgba(60,181,109,1) 66%, rgba(20,5,0,1) 100%);
+}
+
+.lineShadow{
+	box-shadow:0px 0px 50px black !important;
+}
+
+.boxRadious{
+	border-radius: 50px !important;
+}

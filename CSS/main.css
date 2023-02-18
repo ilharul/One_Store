@@ -1,0 +1,28 @@
+.lineShadow{
+	box-shadow:0px 0px 50px black !important;
+}
+
+.lineShadowCircle{
+	box-shadow:0px 0px 10px black !important;
+}
+
+.boxRadious{
+	border-radius: 50px !important;
+}
+
+.marginAnimation:hover{
+	margin-left: 10px;
+	margin-top: 10px;
+	filter: grayscale(0%);
+	
+}
+
+.blackAndWhite{
+	filter: grayscale(100%);
+}
+
+.bgColorGradientBlue{
+background: #0052D4;
+background: -webkit-linear-gradient(to right, #6FB1FC, #4364F7, #0052D4); 
+background: linear-gradient(to right, #6FB1FC, #4364F7, #0052D4); 
+}

@@ -1,0 +1,27 @@
+.text-grey{
+	color: #b8b5ae !important;
+}
+
+#sideNav{
+	min-width: 250px;
+	max-width: 250px;
+}
+
+.content{
+	min-height: 100vh;
+	width: 100%;
+}
+
+.sidebar li.active{
+	background: #fff;
+	border-radius: 10px;
+}
+
+
+.sidebar li.active a, .sidebar li.active a:hover{
+	color: #000;
+}
+
+.sidebar li a{
+	color: #fff;
+}
