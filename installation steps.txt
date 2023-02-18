@@ -1,0 +1,21 @@
+Admin Login
+-----------------
+Username: Admin
+Password : 12345678
+
+User Login
+--------------
+Username: Company 5
+Password : 123456789
+
+Installation Steps
+-----------------------
+Step 1 : Download the One Store Project from-:  https://github.com/ilharul/One_Store.git
+Step 2:  Download and Install XAMPP Server from-: https://www.apachefriends.org
+Step 3:  Open Xampp Control Panel 
+Step 4:  Start Apache and Mysql
+Step 5:  Open the link -: http://localhost/phpmyadmin/index.php
+Step 6:  Create the database -: create databse one_store;
+Step 7:  Create the tables and relationships using one_store.sql
+Step 8:  Open the link -: localhost/One_Store
+Step 9:  Set as Bookmark -: localhost/One_Store
